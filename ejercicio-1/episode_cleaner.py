@@ -143,7 +143,7 @@ def deduplicate(records, stats):
 
 
 def sort_records(records):
-    #Sorts based on name, if same, based on season number and if same, based on episode number.
+    #Sorts based on name, if same, based on season number and if same, based on episode     
     return sorted(
         records,
         key = lambda r: (normalize(r["SeriesName"]), r["SeasonNumber"], r["EpisodeNumber"])
@@ -171,6 +171,11 @@ def write_report(stats: dict[str, Any], out_path: str):
 
     lines = [
         "# Data Quality Report",
+        f"total input: {total_input}",
+        f"duplicates: {duplicates}",
+        f"discarded: {discarded}",
+        f"corrected: {corrected}",
+        f"total_output: {total_output}"
 
     ]
 

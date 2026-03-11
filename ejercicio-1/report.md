@@ -1,4 +1,9 @@
 # Data Quality Report
+total input: 14
+duplicates: 4
+discarded: 2
+corrected: 9
+total_output: 8
 - Row 3: Discarded — missing Series Name.
 - Row 4: Season Number corrected; Episode Number corrected; Air Date invalid, set to Unknown.
 - Row 5: Discarded — Episode Number, Episode Title, and Air Date all missing.
