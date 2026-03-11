@@ -1,0 +1,23 @@
+1- Describe the most relevant learnings from programming-related subjects during your career.
+
+I would say that the most relevant learnings from programming-related subjects during my career are:
+
+- Design Patterns for programming, these help with making a program easy to read, easy to scale and perform better.
+- Testing (white and black box), this helps with making sure that the program is working as expected and that it is easy to maintain.
+- Version Control, this helps with managing changes in the code and collaborating with other developers.
+- ReactJs, NodeJs, Python.
+- CI/CD using pipelines in docker, Dockerfiles, dockercompose as well as amazon web services.
+
+2- Describe a situation you had to resolve with a teammate from a study or work group.
+
+We had to program an entire appointment system for a football club. The system was intended to be used by the club's members to book appointments for training sessions. The system was also intended to be used by the club's staff to manage the appointments. The system was also intended to be used by the club's members to book appointments for training sessions. The system was also intended to be used by the club's staff to manage the appointments.
+It was a challenge because we had very little time to complete the project but we managed to do it very good.
+
+
+3- Describe your personal learning plans or development expectations in technical areas in the short and long term.
+
+In the short term, I would like to improve my skills using new technologies such as AI, and improving in ReactJs, NodeJs, also Python. I think these are very used programming languages today and I would like to be always learning the new technologies. Also learning more about cybersecurity which I really like.
+In the long term, I would like to be a senior developer and be able to lead a team of developers. I would also like to be able to work in a company that is always innovating and using new technologies. I would also like to innovate with a personal project of my own.
+
+
+

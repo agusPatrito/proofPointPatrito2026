@@ -1,0 +1,12 @@
+# Data Quality Report
+- Row 3: Discarded — missing Series Name.
+- Row 4: Season Number corrected; Episode Number corrected; Air Date invalid, set to Unknown.
+- Row 5: Discarded — Episode Number, Episode Title, and Air Date all missing.
+- Row 6: Air Date invalid, set to Unknown.
+- Row 9: Season Number corrected; Air Date invalid, set to Unknown.
+- Row 10: Season Number corrected.
+- Row 11: Episode Number corrected.
+- Row 12: Episode Number corrected; Air Date invalid, set to Unknown.
+- Row 13: Season Number corrected; Episode Number corrected.
+- Row 14: Air Date invalid, set to Unknown.
+- Row 15: Episode Title set to default.
