@@ -177,7 +177,7 @@ def write_report(stats: dict[str, Any], out_path: str):
         f"corrected: {corrected}",
         f"total_output: {total_output}"
         ## Deduplication Strategy
-        """1. **Identification:** Records are considered duplicates if they share the same normalized Series Name, Season Number, and Episode Number. If either the Season or Episode number is missing (`0`), the normalized Episode Title is included in the uniqueness key to avoid incorrectly merging unknown episodes.
+        f"""\n1. **Identification:** Records are considered duplicates if they share the same normalized Series Name, Season Number, and Episode Number. If either the Season or Episode number is missing (`0`), the normalized Episode Title is included in the uniqueness key to avoid incorrectly merging unknown episodes.
         2. **Priority Scoring:** When a duplicate is encountered, a scoring system decides which record to keep:
         - **+4 points** for a valid Air Date.
         - **+2 points** for a known Episode Title.
